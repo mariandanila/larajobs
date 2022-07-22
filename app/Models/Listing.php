@@ -13,7 +13,7 @@ class Listing {
             ],
             [
                 'id' => 2,
-                'title' => 'Listing Two (changed it on github)',
+                'title' => 'Listing Two (test)',
                 'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sodales enim sit amet auctor condimentum. In pharetra turpis ut libero tincidunt, nec ultrices elit aliquet.'
             ]
             ];
